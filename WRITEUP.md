@@ -1,4 +1,4 @@
-# Maddog Williams in the Patches for MT-33 Support
+# Maddog Williams in the Patches for MT-32 Support
 
 ## The Setup
 A few weeks ago Mike tried to play Maddog in Dosbox with real MT32. Unfortunately the sound wouldn't quite stop when going between rooms.
