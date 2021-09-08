@@ -8,9 +8,9 @@ Copy MDWFIX1.EXE into your Maddog Williams installation, run it instead of MDWVG
 # Fixes
 
 - Modified MIDI stop to send full All Notes off message
-- Fix restoring from saves where op21 was used.
+- Fix restoring from saves where op21 was used. (test by restoring in certain rooms, like castle library)
 - Fix some graphical corruption when using op121 (test by looking under rug in bar)
-- Fix issue where restoring games with armour, wouldn't load armour
+- Fix issue where restoring games with armour, wouldn't load armour (test by loading a save with armour worn)
 
 # TODO
 
