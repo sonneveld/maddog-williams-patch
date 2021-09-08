@@ -18,3 +18,4 @@ Copy MDWFIX1.EXE into your Maddog Williams installation, run it instead of MDWVG
 - Enable debug keys, commands
 - Maybe fix issue where you can't save _while_ looking at rug
 - sign check issue with clip function
+- optionally re-add copy protection, for people who want the "authentic" experience :)
