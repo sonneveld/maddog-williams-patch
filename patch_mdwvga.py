@@ -67,7 +67,11 @@ def main():
         patch_bytes(exebin, 0xD939, room)
 
 
-    with open('MDWFIX1.EXE', 'wb') as f:
+    outname = 'MDWFIX1.EXE'
+    if DEBUG_PATCH:
+        outname = 'MDWDBG.EXE'
+
+    with open(outname, 'wb') as f:
         f.write(exebin)
 
 if __name__ == "__main__":
